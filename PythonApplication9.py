@@ -6,7 +6,7 @@ print(k)
 print(u)
 
 def occ(x):
-    count=0
+    count=1
     ocs=[]
     for element in x:
         for member in k:
